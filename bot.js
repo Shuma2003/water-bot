@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 const schedule = require('node-schedule');
 
-const bot = new Telegraf(process.env.BOT_TOKEN || '7630888936:AAGCUMPLwLf7uLVcNmRif7Iz2VQcRPVrWdU');
+const bot = new Telegraf(process.env.BOT_TOKEN || 'BOT_TOKEN');
 
 // Хранилище данных пользователей
 const users = {};
