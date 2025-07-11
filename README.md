@@ -34,7 +34,7 @@ node-schedule (для планирования напоминаний)
 Клонируйте репозиторий:
 
 bash
-git clone[ https://github.com/ваш-username/water-reminder-bot.git](https://github.com/Shuma2003/water-bot)
+git clone https://github.com/Shuma2003/water-bot
 cd water-reminder-bot
 Установите зависимости:
 
@@ -99,6 +99,6 @@ MIT License. Подробнее в файле LICENSE.
 ## ✉️ Контакты
 Ваше имя - melkijprogrammist@gmail.com
 
-Проект на GitHub:[ https://github.com/ваш-username/water-reminder-bot](https://github.com/Shuma2003/water-bot)
+Проект на GitHub: https://github.com/Shuma2003/water-bot
 
 💧 Пейте воду и оставайтесь гидратированными! 💧
